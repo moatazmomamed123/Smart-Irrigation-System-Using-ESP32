@@ -1,4 +1,4 @@
-# Smart Irrigation System (IoT Based)
+# Smart Irrigation System Using ESP32
 
 ##  Project Description
 This is an advanced **Smart Irrigation System** built using the **ESP32** microcontroller. The project aims to optimize water usage by monitoring soil moisture levels in real-time and automating the irrigation process. Data is synced to a cloud database, allowing users to monitor and control the system remotely via a mobile application.
